@@ -1,3 +1,3 @@
 ## Introduction
 
-This is where the page contents will be stored.
+This is where the crawled page contents will be stored.
