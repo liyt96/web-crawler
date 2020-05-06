@@ -17,3 +17,6 @@ $ python crawler.py restart
 ```
 
 to restart from the last exit point.
+
+
+Modify `seedfile.txt` to set start point for the crawler.
