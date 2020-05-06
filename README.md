@@ -16,4 +16,4 @@ to start crawling,
 $ python crawler.py restart
 ```
 
-to restart from the last break point.
+to restart from the last exit point.
