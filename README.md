@@ -16,7 +16,7 @@ Run
 $ python crawler.py start
 ```
 
-to start crawling,
+to start crawling, press <kbd>CTRL</kbd>+<kbd>Z</kbd> to terminate the crawler. Run
 
 ```
 $ python crawler.py restart
