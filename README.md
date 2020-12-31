@@ -1,6 +1,6 @@
 # Web Crawler
 
-A web crawler written in Python 3 that is easy to use and follows politeness policies.
+A web crawler written in Python 3 that is easy to use and follows [politeness policies](https://en.wikipedia.org/wiki/Web_crawler#Crawling_policy).
 
 ## Usage
 
